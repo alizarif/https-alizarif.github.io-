@@ -18,5 +18,5 @@ Phone: +1-812-558-6287
 
 ## Work in Progress
 
-- Experimental Evidence on Language Large Models Decisions about Inflation Expectation
+- Experimental Evidence on Language Large Models
 - Risk Behavior of AI Agents
