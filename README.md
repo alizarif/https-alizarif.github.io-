@@ -1,7 +1,5 @@
-**Ali Zarifhonarvar**  
 Room #210, Wylie Hall, 100 South Woodlawn Avenue, Bloomington, IN  
 Email: alizarif@iu.edu  
-Phone: +1-812-558-6287
 
 ## Education
 
