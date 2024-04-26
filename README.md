@@ -1,8 +1,6 @@
 Room #210, Wylie Hall, 100 South Woodlawn Avenue, Bloomington, IN  
 Email: alizarif@iu.edu  
 
-- **2021--**: Ph.D. in Economics, Indiana University, Bloomington, USA
-
 ## Research Interests
 
 - Experimental Economics
