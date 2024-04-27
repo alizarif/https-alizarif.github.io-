@@ -9,5 +9,5 @@ Email: alizarif@iu.edu
 
 ## Work in Progress
 
-- Experimental Evidence on Language Large Models
+- Experimental Evidence on Large Language Models
 - Risk Behavior of AI Agents
