@@ -5,7 +5,7 @@ Email: alizarif@iu.edu
 
 - Experimental Economics
 - Behavioral Macroeconomics
-- Economics of LLMs
+- Textual Analysis and Economics of LLMs
 
 ## Work in Progress
 
