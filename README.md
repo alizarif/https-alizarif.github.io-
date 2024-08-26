@@ -9,5 +9,6 @@ Email: alizarif@iu.edu
 
 ## Work in Progress
 
-- Experimental Evidence on Large Language Models [(Draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825076)
-- Risk Behavior of AI Agents
+- Evidence on Inflation Expectations Formation Using Large Language Models [(Draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825076)
+- The AI Persuasion Project [(Website)](https://sites.google.com/view/ai-persuasion/team?authuser=0)
+- Assessing Risk and Time Preferences in AI Agents
