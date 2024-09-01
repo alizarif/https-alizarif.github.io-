@@ -1,11 +1,7 @@
 Room #210, Wylie Hall, 100 South Woodlawn Avenue, Bloomington, IN  
 Email: alizarif@iu.edu  
 
-## Research Interests
-
-- Experimental Economics
-- Behavioral Macroeconomics
-- Textual Analysis and Economics of LLMs
+I am a fourth PhD student in Economics at Indiana University. My research interests include Experimental Economics, Behavioral Macroeconomics, Textual Analysis, and the Economics of Large Language Models.
 
 ## Working Papers
 
