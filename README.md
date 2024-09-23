@@ -1,11 +1,7 @@
-# Ali Zarifhonarvar
-
-[CV](https://github.com/alizarif/cv.pdf)
-
 Room #210, Wylie Hall, 100 South Woodlawn Avenue, Bloomington, IN  
 Email: alizarif@iu.edu  
 
-I am a 4th Year PhD student in Economics at Indiana University. My research interests include Experimental Economics, Behavioral Macroeconomics, Textual Analysis, and the Economics of Large Language Models.
+I am a 4th Year PhD student in Economics at Indiana University. My research interests include Experimental Economics, Behavioral Macroeconomics, Textual Analysis, and the Economics of Large Language Models. Here is my [CV](https://github.com/alizarif/cv.pdf).
 
 ## Working Papers
 
