@@ -17,16 +17,10 @@ Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolutio
 
 A cross-disciplinary big-team science effort to study LLM capability evaluation in the context of persuasion
 
-- Assessing Risk and Time Preferences in AI Agents
-
 ## Publications
 
 - Economics of ChatGPT: A Labor Market View on the Occupational Impact of Artificial Intelligence [(Link)](https://www.emerald.com/insight/content/doi/10.1108/JEBDE-10-2023-0021/full/html)
 
-This study examines how ChatGPT affects the labor market. I first thoroughly analyzed the prior research that has been done on the subject in order to start understanding how ChatGPT and other AI-related services are influencing the labor market. Using the supply and demand model, I then assess ChatGPT's impact. This paper examines this innovation's short- and long-term effects on the labor market, concentrating on its challenges and opportunities. Furthermore, I employ a text-mining approach to extract various tasks from the International Standard Occupation Classification to present a comprehensive list of occupations most sensitive to ChatGPT.
-
 ## Some Resources
 
-- This is a simple code for integrating an AI chatbot powered by the OpenAI Assistants API into Qualtrics surveys. The detailed explanation can be read in the tutorial:
-
-[Repository](https://github.com/alizarif/QualtricsAIChatbot)
+- A simple code for integrating an AI chatbot powered by the OpenAI Assistants API into Qualtrics surveys. The detailed explanation can be read in the tutorial: [Repository](https://github.com/alizarif/QualtricsAIChatbot)
