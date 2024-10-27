@@ -21,5 +21,5 @@ A cross-disciplinary big-team science effort to study LLM capability evaluation 
 - Economics of ChatGPT: A Labor Market View on the Occupational Impact of Artificial Intelligence [(Link)](https://www.emerald.com/insight/content/doi/10.1108/JEBDE-10-2023-0021/full/html)
 
 ## Some Resources
-
+- Mini-Course on Generative AI Applications : [Link](https://github.com/alizarif/LLM)
 - A simple code for integrating an AI chatbot powered by the OpenAI Assistants API into Qualtrics surveys. The detailed explanation can be read in the tutorial: [Repository](https://github.com/alizarif/QualtricsAIChatbot)
