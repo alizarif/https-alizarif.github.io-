@@ -4,12 +4,11 @@ Email: alizarif@iu.edu
 I am a 4th Year PhD student in Economics at Indiana University. My research interests include Experimental Economics, Behavioral Macroeconomics, Textual Analysis, and the Economics of Large Language Models. I study questions related to expectations and AI-human interaction. Here is my [CV](https://github.com/alizarif/cv.pdf).
 
 ## Working Papers
-
 - Evidence on Inflation Expectations Formation Using Large Language Models [(Draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825076)
+  
+  **Presentations**: ICD Departmental Seminar Series (IMF), 2024 North American Meeting of the Economic Science Association (Columbus, OH), Experimental Economics Workshop (Purdue University, West Lafayette), 30th Midwest Macroeconomics Meetings (West Lafayette), 5th ACM International Conference on AI in Finance (Brooklyn, NY)
 
-This paper integrates generative AI with survey experiments to explore inflation expectations in Large Language Models. It demonstrates that knowledge domains significantly influence expectations, with LLMs accessing relevant economic documents showing lower variance. LLMs generally predict higher inflation than actual rates, closely mirroring the Survey of Consumer Expectations. Information treatments, especially forward guidance, almost perfectly shape LLMs' inflation expectations. Introducing a persona in the prompt results in partisan expectations, reflecting patterns observed in human surveys. The study also examines model selection and the chain of thought process of a specific model, highlighting how they significantly shape responses.
-
-Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/05/experimental-evidence-on-large-language-models.html)
+Media: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/05/experimental-evidence-on-large-language-models.html)
 
 ## Works in Progress
 
