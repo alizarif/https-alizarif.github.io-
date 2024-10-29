@@ -6,7 +6,7 @@ I am a 4th Year PhD student in Economics at Indiana University. My research inte
 ## Working Papers
 - Evidence on Inflation Expectations Formation Using Large Language Models [(Draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825076)
   
-  **Presentations**: ICD Departmental Seminar Series (IMF), 2024 North American Meeting of the Economic Science Association (Columbus, OH), Experimental Economics Workshop (Purdue University, West Lafayette), 30th Midwest Macroeconomics Meetings (West Lafayette), 5th ACM International Conference on AI in Finance (Brooklyn, NY)
+  **Presentations**: ICD Departmental Seminar Series (IMF), 2024 North American Meeting of the Economic Science Association (Columbus, OH), Experimental Economics Workshop at Purdue University (West Lafayette, IN), 30th Midwest Macroeconomics Meetings (West Lafayette, IN), 5th ACM International Conference on AI in Finance (Brooklyn, NY)
 
 Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/05/experimental-evidence-on-large-language-models.html)
 
