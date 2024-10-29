@@ -8,7 +8,7 @@ I am a 4th Year PhD student in Economics at Indiana University. My research inte
   
   **Presentations**: ICD Departmental Seminar Series (IMF), 2024 North American Meeting of the Economic Science Association (Columbus, OH), Experimental Economics Workshop (Purdue University, West Lafayette), 30th Midwest Macroeconomics Meetings (West Lafayette), 5th ACM International Conference on AI in Finance (Brooklyn, NY)
 
-Media: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/05/experimental-evidence-on-large-language-models.html)
+Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/05/experimental-evidence-on-large-language-models.html)
 
 ## Works in Progress
 
