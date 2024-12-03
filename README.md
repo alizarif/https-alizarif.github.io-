@@ -1,7 +1,7 @@
 Room #210, Wylie Hall, 100 South Woodlawn Avenue, Bloomington, IN  
 Email: alizarif@iu.edu  
 
-I am a 4th Year PhD student in Economics at Indiana University. My research interests include Experimental Economics, Behavioral Macroeconomics, Textual Analysis, and the Economics of Large Language Models. I study questions related to expectations and AI-human interaction. Here is my [CV](https://github.com/alizarif/alizarif.github.io/blob/main/Resume_Nov_27__2024.pdf).
+I am a 4th Year PhD student in Economics at Indiana University. My research interests include Experimental Economics, Behavioral Macroeconomics, NLP, and the Economics of Large Language Models. I study questions related to expectations and AI-human interaction. Here is my [CV](https://github.com/alizarif/alizarif.github.io/blob/main/Resume_Nov_27__2024.pdf).
 
 ## Working Papers
 - Evidence on Inflation Expectations Formation Using Large Language Models [(Draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825076)
