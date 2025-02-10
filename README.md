@@ -11,6 +11,7 @@ I am a 4th Year PhD student in Economics at Indiana University. My research inte
 Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/05/experimental-evidence-on-large-language-models.html)
 
 - Simulating the Survey of Professional Forecasters [(Draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066286)
+  
    with Anne Lundgaard Hansen (Federal Reserve Bank of Richmond), John J. Horton (MIT Sloan), Sophia Kazinnik (Stanford HAI), & Daniela Puzzello (Indiana University)
 
 ## Works in Progress
